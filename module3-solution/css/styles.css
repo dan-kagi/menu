@@ -1,0 +1,27 @@
+body{
+    font-size: 16px;
+    font-family: "Anek Devanagari", sans-serif;
+    margin: 0px 0px 0px 0px;
+}
+
+#nav-header{
+    background-color: #34ebc6;
+    margin-bottom: 20px;
+}
+
+#company-name{
+    font-size: 1.8em;
+    margin-left: 10px;
+}
+
+#options{
+    font-size: 1.2em;
+}
+
+h2 {
+    font-size: 1.4em;
+}
+#text-container{
+    background-color:#63501a;
+    padding:20px 10px 20px 10px;
+}
